@@ -1,2 +1,2 @@
-Hi this is a new file. 
+This is a completely different sentence. 
 I am adding an extra line in this branche.
