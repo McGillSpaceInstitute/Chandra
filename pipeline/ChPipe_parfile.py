@@ -1,14 +1,14 @@
 # 2017.12.04 11:28:17 EST
 #Embedded file name: ChPipe_parfile.py
-obsID_list = [20347]
+obsID_list = [16214]
 downloadBool = 'no'
-reproBool = 'yes'
-downloadPath = '/home/elie/Documents/Project/chandra_pipeline/Chandra_download'
-reproPathBase = '/home/elie/Documents/Project/chandra_pipeline/ChandraReproData'
+reproBool = 'no'
+downloadPath = '/data/irulan/gc_catalog/students/alexk/pipeline_test'
+reproPathBase = '/data/irulan/gc_catalog/students/alexk/pipeline_test/repro'
 eRange = [2.0, 8.0]
 rtag = '1.25amin'
-supplementalPath = '/home/elie/Documents/Project/chandra_pipeline/SupplementalFiles/'
-plistFile = supplementalPath + 'chandra_point_sources_wmag.ascii'
+supplementalPath = '/data/irulan/gc_catalog/students/alexk/gittest/Chandra/pipeline'
+plistFile = supplementalPath + '/chandra_point_sources_wmag.ascii'
 sgrApos = ['17:45:40.0409', '-29:00:28.118']
 magpos = ['17:45:40.169', '-29:00:29.84']
 bkgpos = ['17:45:40.084', '-29:00:28.70']
