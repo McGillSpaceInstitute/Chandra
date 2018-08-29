@@ -2,11 +2,17 @@ This repository contains a pipeline that does data analysis on sources in the ga
 In this repository, we can find the pipeline folder.
 
 In the pipeline folder, there are a certain set of documents: 
+
 1.ChPipe_parfile.py
+
 2.ChPipe_parfile.pyc
+
 3.ChandraReproPipeline.py
+
 4.chandra_point_sources_wmag.ascii
+
 5.chandra_point_sources_wsagmag.ascii
+
 6.manual_change.py
 
 We can choose to completely ignore the .pyc file (#2).
